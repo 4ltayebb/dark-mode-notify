@@ -8,7 +8,7 @@ You can use it to change your vim color config automatically for example.
 It's recommended to Homebrew to install this program:
 
 ```sh
-brew tap wangl-cc/loong/dark-mode-notify
+brew install wangl-cc/loong/dark-mode-notify
 ```
 
 Alternatively, you can clone this repository and run `make install` to
